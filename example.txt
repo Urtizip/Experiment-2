@@ -1,2 +1,13 @@
-Line from feature-2
-welcome
+
+
+
+
+
+
+
+
+line from both feature 1 and feature 2
+
+
+
+
